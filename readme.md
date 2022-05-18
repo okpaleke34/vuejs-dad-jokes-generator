@@ -12,7 +12,7 @@ This document provides summary information about the enhancements provided in th
 This guide is intended for end users, administrators and staffs who use Myschoolgateway system.
 
 
-## ** Added **
+## **Added**
 Students can now check their result without logging in to their account by using the result portal. The information on how to use this portal is at the back of each student scratch card.
 Each school now has their unique link for easy accessibility.
 The students can get SMS notification on their guidance phones if once the termly result is published by the Head teacher.
