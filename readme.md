@@ -1,7 +1,7 @@
 # Myschoolgateway School Management System
 
 ### Release Notes
-### Release  3.0
+###### Release  3.0
 ### Published January 28 2022
 
 ## Release Overview
